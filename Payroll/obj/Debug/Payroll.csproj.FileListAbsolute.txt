@@ -1,0 +1,5 @@
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Chapter 2\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Chapter 2\Payroll\bin\Debug\Payroll.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Chapter 2\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Chapter 2\Payroll\obj\Debug\Payroll.exe
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\Chapter 2\Payroll\obj\Debug\Payroll.pdb
